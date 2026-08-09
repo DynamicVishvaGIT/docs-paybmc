@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-ec5rp6.saturadar88.online/sitemap.xml
